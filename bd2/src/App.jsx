@@ -6,19 +6,19 @@ function App() {
   const [tel,setTel] = useState('')
   const [birth,setBirth] = useState('')
 
-  handleEmail = (evt) => {
+  const handleEmail = (evt) => {
 
   }
 
-  handleNombre = (evt) => {
+  const handleNombre = (evt) => {
 
   }
 
-  handleTel = (evt) => {
+  const handleTel = (evt) => {
 
   }
 
-  handleBirth = (evt) => {
+  const handleBirth = (evt) => {
     
   }
 

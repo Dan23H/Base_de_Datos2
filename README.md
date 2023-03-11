@@ -1,3 +1,6 @@
+# Base_de_Datos2
+Este repositorio es para talleres y tareas de Bases de Datos 2... No confundir con el repositorio del proyecto.
+
 Juan José Saavedra Realpe (2210120)
 Daniel Hernandez Valderrama (2210235)
 
